@@ -92,6 +92,8 @@ OUTPUT RULES (STRICT):
 ---
 <img width="1504" height="1128" alt="WhatsApp Image 2026-04-22 at 2 00 46 AM" src="https://github.com/user-attachments/assets/d944e56d-8a47-47d4-a2e1-bd7bf38951c9" />
 
+<img width="1200" height="916" alt="WhatsApp Image 2026-04-22 at 2 00 45 AM" src="https://github.com/user-attachments/assets/f1639842-3971-4822-a998-7e57303b845c" />
+
 PRECISION REQUIREMENT:
 
 The final UI should feel:
